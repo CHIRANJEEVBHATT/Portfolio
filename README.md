@@ -5,21 +5,21 @@ A modern, responsive portfolio website built with the MERN stack (MongoDB, Expre
 ## Features
 
 ### Frontend (React + Tailwind CSS)
-- ✅ Responsive design with dark/light mode toggle
-- ✅ Smooth animations using Framer Motion
-- ✅ Sections: Home, About, Projects, Contact, Resume Download
-- ✅ Interactive navbar with smooth scroll navigation
-- ✅ Hero section with call-to-action buttons
-- ✅ About section with animated skill progress bars
-- ✅ Projects section with responsive cards
-- ✅ Contact form with validation
-- ✅ Resume download functionality
+-  Responsive design with dark/light mode toggle
+-  Smooth animations using Framer Motion
+-  Sections: Home, About, Projects, Contact, Resume Download
+-  Interactive navbar with smooth scroll navigation
+-  Hero section with call-to-action buttons
+-  About section with animated skill progress bars
+-  Projects section with responsive cards
+-  Contact form with validation
+-  Resume download functionality
 
 ### Backend (Node.js + Express.js)
-- ✅ Express server setup
-- ✅ Contact form API with Nodemailer integration
-- ✅ CORS configuration
-- ✅ MongoDB connection setup
+-  Express server setup
+-  Contact form API with Nodemailer integration
+-  CORS configuration
+-  MongoDB connection setup
 
 ## Setup Instructions
 
